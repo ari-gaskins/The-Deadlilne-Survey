@@ -11,33 +11,33 @@ p {
 }
 
 label[for="great"] {
-    border: solid blue;
+    border: 5px solid blue;
     background-color: blue;
 }
 
 label[for="good"] {
-    border: solid green;
+    border: 5px solid green;
     background-color: green;
 }
 
 /* change font color */
 label[for="ok"] {
-    border: solid white;
+    border: 5px solid white;
     background-color: white;
     color: black;
 }
 
 label[for="relieved"] {
-    border: solid yellow;
+    border: 5px solid yellow;
     background-color: yellow;
 }
 
 label[for="worried"] {
-    border: solid orange;
+    border: 5px solid orange;
     background-color: orange;
 }
 
 label[for="panicked"] {
-    border: solid red;
+    border: 5px solid red;
     background-color: red;
 }
