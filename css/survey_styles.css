@@ -10,34 +10,34 @@ p {
     background-color: black;
 }
 
-input.great {
+label[for="great"] {
     border: solid blue;
     background-color: blue;
 }
 
-input.good {
+label[for="good"] {
     border: solid green;
     background-color: green;
 }
 
 /* change font color */
-input.ok {
+label[for="ok"] {
     border: solid white;
     background-color: white;
     color: black;
 }
 
-input.relieved {
+label[for="relieved"] {
     border: solid yellow;
     background-color: yellow;
 }
 
-input.worried {
+label[for="worried"] {
     border: solid orange;
     background-color: orange;
 }
 
-input.panicked {
+label[for="panicked"] {
     border: solid red;
     background-color: red;
 }
