@@ -10,28 +10,28 @@ p {
     background-color: black;
 }
 
-input.great {
+p.great {
     background-color: blue;
 }
 
-input.good {
+p.good {
     background-color: green;
 }
 
 /* change font color */
-input.ok {
+p.ok {
     background-color: white;
     color: black;
 }
 
-input.relieved {
+p.relieved {
     background-color: yellow;
 }
 
-input.worried {
+p.worried {
     background-color: orange;
 }
 
-input.panicked {
+p.panicked {
     background-color: red;
 }
