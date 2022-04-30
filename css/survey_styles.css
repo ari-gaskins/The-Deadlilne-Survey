@@ -1,0 +1,32 @@
+/* This stylesheet changes the way the buttons look based on severity of procrastination. */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+input[value="great"] {
+    background-color: blue;
+}
+
+input[value="good"] {
+    background-color: green;
+}
+
+/* change font color */
+input[value="ok"] {
+    background-color: white;
+    color: black;
+}
+
+input[value="relieved"] {
+    background-color: yellow;
+}
+
+input[value="worried"] {
+    background-color: orange;
+}
+
+input[value="panicked"] {
+    background-color: red;
+}
