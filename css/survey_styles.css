@@ -10,28 +10,28 @@ p {
     background-color: black;
 }
 
-input[value="great"] {
+input.great {
     background-color: blue;
 }
 
-input[value="good"] {
+input.good {
     background-color: green;
 }
 
 /* change font color */
-input[value="ok"] {
+input.ok {
     background-color: white;
     color: black;
 }
 
-input[value="relieved"] {
+input.relieved {
     background-color: yellow;
 }
 
-input[value="worried"] {
+input.worried {
     background-color: orange;
 }
 
-input[value="panicked"] {
+input.panicked {
     background-color: red;
 }
