@@ -11,27 +11,33 @@ p {
 }
 
 .great {
+    border: 2px hidden blue;
     background-color: blue;
 }
 
 .good {
+    border: 2px hidden green;
     background-color: green;
 }
 
 /* change font color */
 .ok {
+    border: 2px hidden white;
     background-color: white;
     color: black;
 }
 
 .relieved {
+    border: 2px hidden yellow;
     background-color: yellow;
 }
 
 .worried {
+    border: 2px hidden orange;
     background-color: orange;
 }
 
 .panicked {
+    border: 2px hidden red;
     background-color: red;
 }
